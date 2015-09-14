@@ -1,4 +1,4 @@
-﻿IdentityServer3 Client Library for JavaScript 
+﻿OpenID Connect Client Library for JavaScript 
 ====================================
 [![Build Status](https://travis-ci.org/AzureAD/azure-activedirectory-library-for-js.svg?branch=master)](https://travis-ci.org/AzureAD/azure-activedirectory-library-for-js)
 
