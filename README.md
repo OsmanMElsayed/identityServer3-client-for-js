@@ -1,4 +1,4 @@
-﻿Active Directory Authentication Library (ADAL) for JavaScript 
+﻿IdentityServer3 Client Library for JavaScript 
 ====================================
 [![Build Status](https://travis-ci.org/AzureAD/azure-activedirectory-library-for-js.svg?branch=master)](https://travis-ci.org/AzureAD/azure-activedirectory-library-for-js)
 
