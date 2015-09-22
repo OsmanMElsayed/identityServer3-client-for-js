@@ -44,8 +44,8 @@ module.exports = function (grunt) {
                 // Because these src-dest file mappings are manually specified, every
                 // time a new file is added or removed, the Gruntfile has to be updated.
                 files: [
-                  { src: 'lib/adal.js', dest: 'build/adal.min.js' },
-                  { src: 'lib/adal-angular.js', dest: 'build/adal-angular.min.js' },
+                  { src: 'lib/OpenIDConnectClient.js', dest: 'build/OpenIDConnectClient.min.js' },
+                  { src: 'lib/OpenIDConnectClient-Angular.js', dest: 'build/OpenIDConnectClient-Angular.min.js' },
                 ],
             }
         },
